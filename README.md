@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DemDevops
 - 👀 I’m interested in automation and the internet of things
-- 💞️ I’m looking to collaborate on AI  
+- 💞️ L5ooking to collaborate on AI  
 - 📫 How to reach me demolasuberu@gmail.com
 
 <!---
